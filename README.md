@@ -13,11 +13,15 @@ Aspiring AI/ML Engineer and Python Developer passionate about building intellige
 !Keras
 !LangChain
 !LangGraph
+
 Core Competencies:
 
 Deep Learning: ANN, CNN, RNN, LSTM, GRU
+
 Generative AI: RAG, AI Agents, Agentic AI
+
 NLP: Embeddings, Conversational AI
+
 Frameworks: TensorFlow, Keras, LangChain, LangGraph
 
 🌐 Backend & Full-Stack Development
