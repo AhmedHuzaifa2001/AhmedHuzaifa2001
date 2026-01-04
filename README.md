@@ -1,8 +1,13 @@
 Hi there! 👋 I'm Ahamed Huzaifa
+
 🚀 About Me
+
 Aspiring AI/ML Engineer and Python Developer passionate about building intelligent, scalable systems. I specialize in Machine Learning, Deep Learning, NLP, Generative AI, and Agentic AI, leveraging frameworks like TensorFlow, Keras, LangChain, LangGraph and FastAPI to create innovative solutions that drive automation and data-driven decision-making.
+
 💻 Skills & Expertise
+
 🧠 Artificial Intelligence & Machine Learning
+
 !Python
 !TensorFlow
 !Keras
@@ -31,14 +36,18 @@ Data Processing: NumPy, Pandas
 Deployment: Streamlit, FastAPI
 
 🔥 Featured Projects
+
 🧠 LangGraph Agentic AI
 Modular AI agent system with dynamic graph construction, real-time data retrieval, and automated AI news aggregation.
+
 📄 RAG with Chat History
 Conversational document QA system using LangChain and Groq LLM with persistent chat history and multi-PDF support.
+
 💬 Chat-SQL FastAPI
 Natural language database query system with SQL agents and session-based conversation management.
 
 🌱 Currently Learning
+
 MLOps and Model Deployment
 Agentic AI and RAG pipelines
 AI Automation - n8n
